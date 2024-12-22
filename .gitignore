@@ -1,0 +1,17 @@
+# バーチャル環境
+venv/
+
+# Pythonキャッシュ
+*.pyc
+__pycache__/
+
+# OS固有ファイル
+.DS_Store
+Thumbs.db
+
+# ログファイル
+*.log
+
+# IDE設定ファイル（VSCode, PyCharmなど）
+.vscode/
+.idea/
